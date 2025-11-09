@@ -1,4 +1,5 @@
 # Getting Started
+My name is Karan Kashyap
 Install the dependencies and run the project
 ```
 npm install
